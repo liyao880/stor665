@@ -1,0 +1,147 @@
+---
+title: '**STOR 665: Applied Statistics II**'
+geometry: margin=2
+output:
+  prettydoc::html_pretty:
+    theme: hpstr
+  html_document:
+    toc: yes
+    df_print: paged
+  pdf_document:
+    toc: yes
+---
+
+<style type="text/css">
+
+div {
+color: #13294B;
+}
+
+#TOC {
+  color: #4B9CD3;
+}
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+  color: #4B9CD3;
+  background-color: #13294B;
+}
+
+a:link {
+    color: #4B9CD3;
+    text-decoration: none;
+}
+
+a:visited {
+        text-decoration: none;
+color: #4B9CD3;
+
+}
+a:hover {
+color: #4B9CD3;
+background-color: #13294B;
+}
+
+.main-container {
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+} 
+
+</style>
+
+# **About the Course**
+
+See the **[syllabus](Syllabi/syllabus.pdf)** for details. Topics covered by this course include but are not limited to:
+
+1. GLM basics: exponential families, link functions, likelihood, quasi-likelihood, conditional likelihood.
+2. Machine Learning: linear models, optimization, kernel methods.
+3. Deep Learning: MLP, CNN, RNN, Generative models.
+
+- Instructor: **[Yao Li](https://liyao880.github.io/yaoli/)**
+
+- Teaching Assistant: **[Younghoon Kim](https://stor.unc.edu/people/graduate-students/)**
+    
+- Class: MW 1:25PM-2:40PM, Hanes 130
+    
+- Office Hours:
+    - Instructor Office Hours: W 3:00PM-4:00PM; by appointment.
+    - TA Office Hours: [Zoom]()
+    
+# **Course Material**
+
+| Date | Lecture | Lab|
+|------|--------------------|-------:|
+|Jan. 9| Welcome and Preliminary | |
+|Jan. 11| Likelihood | |
+|Jan. 16| Holiday | |
+|Jan. 18| Smoothing Methods | |
+|Jan. 23| GLM Bascis | Lab 1: Smoothing Method |
+|Jan. 25| GLM Bascis | |
+|Jan. 30| GLM Bascis | Lab 2: Model Selection|
+|Feb. 1| Deviance Table, MLE | |
+|Feb. 6| Iterated Weighted Least Squares | |
+|Feb. 8| Models for Binary Data| |
+|Feb. 13| Well-Being Day| |
+|Feb. 15| Multinomial Regression Models| Lab 3: Multinomial Regression|
+|Feb. 20| Models for Count Data| |
+|Feb. 22| Bootstrap Inference in GLM|Lab 4: Overdispersion and Zero-Inflation |
+|Feb. 27| Constant Coefficient of Variation Models||
+|Mar. 1| Quasi-likelihood and GAM|Lab 5: Boostrap|
+|Mar. 6| Mid-term Exam||
+|Mar. 8| Overview of Machine Learning||
+|Mar. 13| Spring Break||
+|Mar. 15| Spring Break||
+|Mar. 20| Linear Regression and Classification|Lab 6: Python and Pytorch|
+|Mar. 22| Optimization in ML||
+|Mar. 27| Kernel Methods||
+|Mar. 29| Tree-based Methods||
+|Apr. 3| Multilayer Perceptron||
+|Apr. 5| Convolutional Neural Networks| Lab 7: DNN Training|
+|Apr. 10| Recurrent Neural Networks||
+|Apr. 12| GRU and LSTM ||
+|Apr. 17| NLP Pre-training||
+|Apr. 19| Generative Models||
+|Apr. 24| Adversarial Attack||
+|Apr. 26| Adversarial Defense||
+
+# **Homework Tracker**
+
+All homework assignments are to be submitted via **[Sakai](https://sakai.unc.edu/welcome/)**. Late homework will receive a grade of **0**.
+
+| Date assigned | Instructions | Due Date (Time) |
+|----------|:--------:|:-------------:|----------------:|
+| Jan. 11  | HW1 |  Jan. 22 (11:55 PM) |
+| Jan. 25  | HW2 |  Feb. 05 (11:55 PM) |
+| Feb. 08  | HW3 |  Feb. 19 (11:55 PM) |
+| Mar. 01  | HW4 |  Mar. 26 (11:55 PM) |
+| Mar. 27  | HW5 |  Apr. 9 (11:55 PM) |
+| Apr. 12  | HW6 |  Apr. 23 (11:55 PM) |
+|          |        |           |
+
+# **Final Project**
+
+This course includes a take-home final project in lieu of a final exam:
+
+- Part 1: Theory (50%)
+- Part 2: Data Analysis (50%)
+
+# **Reading**
+
+- **[Generalized Linear Models](https://www.utstat.toronto.edu/~brunner/oldclass/2201s11/readings/glmbook.pdf)**, by P. McCullagh and J.A. Nelder. 
+- **[Extending the linear model with R](https://englianhu.files.wordpress.com/2016/01/faraway-extending-the-linear-model-with-r-e28093-2006.pdf)**, by Julian J. Faraway.
+- **[Foundations of machine learning](https://cs.nyu.edu/~mohri/mlbook/)**, by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar.
+- **[Convex optimization](https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)**, by Stephen Boyd, and Lieven Vandenberghe.
+- **[Deep Learning](https://www.deeplearningbook.org/)**, by Ian Goodfellow, Yoshua Bengio, Aaron Courville. 
+
+This page was last updated on `r Sys.time()` Eastern Time.
