@@ -75,8 +75,8 @@ See the **[syllabus](Syllabi/syllabus.pdf)** for details. Topics covered by this
 - Class: MW 1:25PM-2:40PM, Hanes 130
     
 - Office Hours:
-    - Instructor Office Hours: W 3:00PM-4:00PM; by appointment.
-    - TA Office Hours: [Zoom]()
+    - Instructor Office Hours: W 3:00PM-4:00PM; by appointment; Hanes 334.
+    - TA Office Hours: TTH 11:00AM-12:00PM; Hanes B-4.
     
 # **Course Material**
 
@@ -127,7 +127,6 @@ All homework assignments are to be submitted via **[Sakai](https://sakai.unc.edu
 | Mar. 01  | HW4 |  Mar. 26 (11:55 PM) |
 | Mar. 27  | HW5 |  Apr. 9 (11:55 PM) |
 | Apr. 12  | HW6 |  Apr. 23 (11:55 PM) |
-|          |        |           |
 
 # **Final Project**
 
