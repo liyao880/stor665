@@ -85,35 +85,35 @@ See the **[syllabus](Syllabi/syllabus.pdf)** for details. Topics covered by this
 |Jan. 9| Welcome and Preliminary | |
 |Jan. 11| Likelihood | |
 |Jan. 16| Holiday | |
-|Jan. 18| Smoothing Methods | |
-|Jan. 23| GLM Bascis | Lab 1: Smoothing Method |
-|Jan. 25| GLM Bascis | |
-|Jan. 30| GLM Bascis | Lab 2: Model Selection|
-|Feb. 1| Deviance Table, MLE | |
-|Feb. 6| Iterated Weighted Least Squares | |
-|Feb. 8| Models for Binary Data| |
-|Feb. 13| Well-Being Day| |
-|Feb. 15| Multinomial Regression Models| Lab 3: Multinomial Regression|
-|Feb. 20| Models for Count Data| |
-|Feb. 22| Bootstrap Inference in GLM|Lab 4: Overdispersion and Zero-Inflation |
-|Feb. 27| Constant Coefficient of Variation Models||
-|Mar. 1| Quasi-likelihood and GAM|Lab 5: Boostrap|
+|Jan. 18| Cancel | |
+|Jan. 23| Smoothing Methods | |
+|Jan. 25| GLM Bascis | Lab 1: Smoothing Method |
+|Jan. 30| GLM Bascis | |
+|Feb. 1| GLM Bascis | Lab 2: Model Selection|
+|Feb. 6| Deviance Table, MLE | |
+|Feb. 8| Iterated Weighted Least Squares | |
+|Feb. 13| Well-Being Day | |
+|Feb. 15| Models for Binary Data| |
+|Feb. 20| Multinomial Regression Models| Lab 3: Multinomial Regression|
+|Feb. 22| Models for Count Data| |
+|Feb. 27| Bootstrap Inference in GLM|Lab 4: Overdispersion and Zero-Inflation |
+|Mar. 1| Constant Coefficient of Variation Models||
 |Mar. 6| Mid-term Exam||
-|Mar. 8| Overview of Machine Learning||
+|Mar. 8| Quasi-likelihood and GAM|Lab 5: Boostrap|
 |Mar. 13| Spring Break||
 |Mar. 15| Spring Break||
-|Mar. 20| Linear Regression and Classification|Lab 6: Python and Pytorch|
-|Mar. 22| Optimization in ML||
-|Mar. 27| Kernel Methods||
-|Mar. 29| Tree-based Methods||
-|Apr. 3| Multilayer Perceptron||
-|Apr. 5| Convolutional Neural Networks| Lab 7: DNN Training|
-|Apr. 10| Recurrent Neural Networks||
-|Apr. 12| GRU and LSTM ||
-|Apr. 17| NLP Pre-training||
-|Apr. 19| Generative Models||
-|Apr. 24| Adversarial Attack||
-|Apr. 26| Adversarial Defense||
+|Mar. 20| Overview of Machine Learning||
+|Mar. 22| Linear Regression and Classification|Lab 6: Python and Pytorch|
+|Mar. 27| Optimization in ML||
+|Mar. 29| Kernel Methods||
+|Apr. 3| Tree-based Methods||
+|Apr. 5| Multilayer Perceptron||
+|Apr. 10| Convolutional Neural Networks| Lab 7: DNN Training|
+|Apr. 12| Recurrent Neural Networks||
+|Apr. 17| GRU and LSTM ||
+|Apr. 19| NLP Pre-training||
+|Apr. 24| Generative Models||
+|Apr. 26| Adversarial Attack and Defense||
 
 # **Homework Tracker**
 
