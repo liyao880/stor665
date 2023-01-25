@@ -89,8 +89,8 @@ See the **[syllabus](Syllabi/syllabus.pdf)** for details. Topics covered by this
 |Jan. 23| Smoothing Methods | |
 |Jan. 25| GLM Bascis | Lab 1: Smoothing Method |
 |Jan. 30| GLM Bascis | |
-|Feb. 1| GLM Bascis | Lab 2: Model Selection|
-|Feb. 6| Deviance Table, MLE | |
+|Feb. 1| GLM Bascis | |
+|Feb. 6| MLE and Information |Lab 2: Model Selection |
 |Feb. 8| Iterated Weighted Least Squares | |
 |Feb. 13| Well-Being Day | |
 |Feb. 15| Models for Binary Data| |
