@@ -94,8 +94,8 @@ See the **[syllabus](Syllabi/syllabus.pdf)** for details. Topics covered by this
 |Feb. 8| Iterated Weighted Least Squares | |
 |Feb. 13| Well-Being Day | |
 |Feb. 15| Models for Binary Data| |
-|Feb. 20| Multinomial Regression Models| Lab 3: Multinomial Regression|
-|Feb. 22| Models for Count Data| |
+|Feb. 20| Multinomial Regression Models| |
+|Feb. 22| Models for Count Data|Lab 3: Multinomial Regression |
 |Feb. 27| Bootstrap Inference in GLM|Lab 4: Overdispersion and Zero-Inflation |
 |Mar. 1| Constant Coefficient of Variation Models||
 |Mar. 6| Mid-term Exam||
