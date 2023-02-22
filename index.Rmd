@@ -95,25 +95,26 @@ See the **[syllabus](Syllabi/syllabus.pdf)** for details. Topics covered by this
 |Feb. 13| Well-Being Day | |
 |Feb. 15| Models for Binary Data| |
 |Feb. 20| Multinomial Regression Models| |
-|Feb. 22| Models for Count Data|Lab 3: Multinomial Regression |
-|Feb. 27| Bootstrap Inference in GLM|Lab 4: Overdispersion and Zero-Inflation |
-|Mar. 1| Constant Coefficient of Variation Models||
-|Mar. 6| Mid-term Exam||
-|Mar. 8| Quasi-likelihood and GAM|Lab 5: Boostrap|
+|Feb. 22| Models for Count Data I|Lab 3: Multinomial Regression |
+|Feb. 27| Models for Count Data II | |
+|| Bootstrap Inference in GLM| |
+|Mar. 1| Constant Coefficient of Variation Models I|Lab 4: Overdispersion and Zero-Inflation|
+|Mar. 6| Constant Coefficient of Variation Models II|Lab 5: Boostrap|
+|Mar. 8| Mid-term Exam ||
 |Mar. 13| Spring Break||
 |Mar. 15| Spring Break||
-|Mar. 20| Overview of Machine Learning||
-|Mar. 22| Linear Regression and Classification|Lab 6: Python and Pytorch|
-|Mar. 27| Optimization in ML||
-|Mar. 29| Kernel Methods||
-|Apr. 3| Tree-based Methods||
-|Apr. 5| Multilayer Perceptron||
-|Apr. 10| Convolutional Neural Networks| Lab 7: DNN Training|
-|Apr. 12| Recurrent Neural Networks||
-|Apr. 17| GRU and LSTM ||
-|Apr. 19| NLP Pre-training||
-|Apr. 24| Generative Models||
-|Apr. 26| Adversarial Attack and Defense||
+|Mar. 20| Quasi-likelihood and GAM ||
+|Mar. 22| Overview of Machine Learning||
+|Mar. 27| Linear Regression and Classification|Lab 6: Python and Pytorch|
+|Mar. 29| Optimization in ML||
+|Apr. 3| Kernel Methods||
+|Apr. 5| Tree-based Methods||
+|Apr. 10| Multilayer Perceptron||
+|Apr. 12| Convolutional Neural Networks| Lab 7: DNN Training|
+|Apr. 17| Recurrent Neural Networks||
+|Apr. 19| GRU and LSTM ||
+|Apr. 24| NLP Pre-training||
+|Apr. 26| Generative Models||
 
 # **Homework Tracker**
 
