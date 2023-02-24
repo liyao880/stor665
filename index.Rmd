@@ -98,12 +98,12 @@ See the **[syllabus](Syllabi/syllabus.pdf)** for details. Topics covered by this
 |Feb. 22| Models for Count Data I|Lab 3: Multinomial Regression |
 |Feb. 27| Models for Count Data II | |
 || Bootstrap Inference in GLM| |
-|Mar. 1| Constant Coefficient of Variation Models I|Lab 4: Overdispersion and Zero-Inflation|
-|Mar. 6| Constant Coefficient of Variation Models II||
+|Mar. 1| Constant Coefficient of Variation Models |Lab 4: Overdispersion and Zero-Inflation|
+|Mar. 6| Quasi-likelihood ||
 |Mar. 8| Mid-term Exam ||
 |Mar. 13| Spring Break||
 |Mar. 15| Spring Break||
-|Mar. 20| Quasi-likelihood and GAM |Lab 5: Boostrap and GAM|
+|Mar. 20| GAM |Lab 5: Boostrap and GAM|
 |Mar. 22| Overview of Machine Learning||
 |Mar. 27| Linear Regression and Classification|Lab 6: Python and Pytorch|
 |Mar. 29| Optimization in ML||
