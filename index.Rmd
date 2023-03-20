@@ -103,10 +103,10 @@ See the **[syllabus](Syllabi/syllabus.pdf)** for details. Topics covered by this
 |Mar. 8| Mid-term Exam ||
 |Mar. 13| Spring Break||
 |Mar. 15| Spring Break||
-|Mar. 20| GAM |Lab 5: Boostrap and GAM|
-|Mar. 22| Overview of Machine Learning||
-|Mar. 27| Linear Regression and Classification|Lab 6: Python and Pytorch|
-|Mar. 29| Optimization in ML||
+|Mar. 20| Overview of Machine Learning |Lab 5: Boostrap|
+|Mar. 22| Linear Regression and Classification ||
+|Mar. 27| Optimization in ML |Lab 6: Python and Pytorch|
+|Mar. 29| Optimization in ML ||
 |Apr. 3| Kernel Methods||
 |Apr. 5| Tree-based Methods||
 |Apr. 10| Multilayer Perceptron||
