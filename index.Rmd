@@ -108,13 +108,13 @@ See the **[syllabus](Syllabi/syllabus.pdf)** for details. Topics covered by this
 |Mar. 27| Optimization in ML |Lab 6: Python and Pytorch|
 |Mar. 29| Optimization in ML ||
 |Apr. 3| Kernel Methods||
-|Apr. 5| Tree-based Methods||
-|Apr. 10| Multilayer Perceptron||
-|Apr. 12| Convolutional Neural Networks| Lab 7: DNN Training|
-|Apr. 17| Recurrent Neural Networks||
-|Apr. 19| GRU and LSTM ||
-|Apr. 24| NLP Pre-training||
-|Apr. 26| Generative Models||
+|Apr. 5| Multilayer Perceptron||
+|Apr. 10|Convolutional Neural Networks ||
+|Apr. 12| Recurrent Neural Networks| Lab 7: DNN Training|
+|Apr. 17| GRU and LSTM||
+|Apr. 19| NLP Pre-training ||
+|Apr. 24| Generative Models||
+|Apr. 26| Adversarial Learning ||
 
 # **Homework Tracker**
 
