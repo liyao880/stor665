@@ -109,8 +109,8 @@ See the **[syllabus](Syllabi/syllabus.pdf)** for details. Topics covered by this
 |Mar. 29| Optimization in ML ||
 |Apr. 3| Kernel Methods||
 |Apr. 5| Multilayer Perceptron||
-|Apr. 10|Convolutional Neural Networks ||
-|Apr. 12| Recurrent Neural Networks| Lab 7: DNN Training|
+|Apr. 10|Convolutional Neural Networks |Lab 7: DNN Training |
+|Apr. 12| Recurrent Neural Networks| |
 |Apr. 17| GRU and LSTM||
 |Apr. 19| NLP Pre-training ||
 |Apr. 24| Generative Models||
