@@ -114,7 +114,7 @@ See the **[syllabus](Syllabi/syllabus.pdf)** for details. Topics covered by this
 |Apr. 17| GRU and LSTM||
 |Apr. 19| NLP Pre-training ||
 |Apr. 24| Generative Models||
-|Apr. 26| Adversarial Learning ||
+|Apr. 26| Adversarial Attack ||
 
 # **Homework Tracker**
 
@@ -131,10 +131,7 @@ All homework assignments are to be submitted via **[Sakai](https://sakai.unc.edu
 
 # **Final Project**
 
-This course includes a take-home final project in lieu of a final exam:
-
-- Part 1: Theory (50%)
-- Part 2: Data Analysis (50%)
+This course includes a take-home final project in lieu of a final exam.
 
 # **Reading**
 
