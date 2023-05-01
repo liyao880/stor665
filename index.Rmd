@@ -131,7 +131,7 @@ All homework assignments are to be submitted via **[Sakai](https://sakai.unc.edu
 
 # **Final Project**
 
-This course includes a take-home final project in lieu of a final exam, which contains only data analysis.
+This course includes a take-home final project in lieu of a final exam.
 
 # **Reading**
 
